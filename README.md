@@ -219,23 +219,4 @@ This project demonstrates foundational enterprise IT Support capabilities aligne
 
 ---
 
-# Why This README Works
 
-It shows:
-
-* Business thinking
-* Technical accuracy
-* Troubleshooting maturity
-* Validation steps
-* Security awareness
-* Clear communication
-
-That is exactly what hiring managers look for.
-
----
-
-If you’d like next, I can:
-
-* Write the **AGDLP repo README**
-* Write the **Help Desk Ticket Simulation README**
-* Or refine this further to look even more enterprise-level**
