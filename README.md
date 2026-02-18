@@ -1,10 +1,5 @@
 # enterprise-ad-lab-build
 Simulated small business: Northbridge Solutions Inc. IT required to deploy on-prem Active Directory for centralized authentication and resource management.
-Excellent. Below is a **fully written, professional-grade README** for your first repository:
-
-> 📁 `enterprise-ad-lab-build`
-
-This is structured the way a hiring manager or technical interviewer would expect to see documentation.
 
 ---
 
