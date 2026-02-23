@@ -138,10 +138,10 @@ NTFS Permissions on Shared Folder
 Tasks completed:
 
 * Installed Windows 10 on CLIENT01
-* Configured networking to communicate with DC01
+* **Configured networking to communicate with DC01** – [View Screenshot](screenshots/disable-account.png)
 * Verified connectivity using:
-  * ping
-  * ipconfig
+  * **ping** – [View Screenshot](screenshots/disable-account.png)
+  * **ipconfig** – [View Screenshot](screenshots/disable-account.png)
 * Corrected DNS misconfiguration
 * Joined CLIENT01 to lab.local domain
 * Logged in using domain user account
