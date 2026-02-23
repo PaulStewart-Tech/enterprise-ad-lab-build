@@ -1,13 +1,3 @@
-Good. Then we remove PowerShell completely.
-
-Never claim skills you haven’t practiced. In Toronto’s Help Desk market, interviewers will test you immediately if you list PowerShell.
-
-Below is your **corrected flagship README** — fully accurate to what you’ve actually done.
-
-You can paste this directly into your repo.
-
----
-
 # 🏢 Enterprise Active Directory Lab
 
 **Simulated Corporate Environment – Northbridge Solutions Inc.**
@@ -239,14 +229,5 @@ Stored in `/screenshots` directory:
 
 ---
 
-This version is 100% aligned with what you’ve actually done.
-
-Now let me ask you something important:
-
-Do you want to:
-
-1. Stay purely Help Desk focused?
-2. Move toward Level 2 / Jr. SysAdmin?
-3. Add entry-level PowerShell next?
 
 Your next lab move depends on that decision.
