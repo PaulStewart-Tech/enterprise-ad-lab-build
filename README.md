@@ -71,7 +71,7 @@ lab.local
 │   ├── Users
 │   └── Computers
 ```
-(screenshots/ou-structure.png)
+!(screenshots/ou-structure.png)
 ### Why This Matters
 
 * Enables targeted Group Policy
