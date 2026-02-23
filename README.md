@@ -71,7 +71,7 @@ lab.local
 │   ├── Users
 │   └── Computers
 ```
-![Organizational Unit Design](screenshots/ou-structure.png)
+![OU Structure](screenshots/DevTeam OU Structure.PNG)
 ### Why This Matters
 
 * Enables targeted Group Policy
