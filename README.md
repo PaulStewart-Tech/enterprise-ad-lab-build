@@ -71,7 +71,7 @@ lab.local
 │   ├── Users
 │   └── Computers
 ```
-<img src="screenshots/DevTeam Ou Structure.png" width="700">
+(screenshots/ou-structure.png)
 ### Why This Matters
 
 * Enables targeted Group Policy
