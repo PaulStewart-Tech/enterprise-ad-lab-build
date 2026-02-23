@@ -163,6 +163,10 @@ Validated:
 * Login failures traced to DNS misconfiguration
 * Resolved “Destination Host Unreachable” error
 
+## DC01 DNS Configuration
+
+![DC01 DNS Configuration](screenshots/DC01_DNS_Configuration.PNG)
+
 Key Lesson:
 
 Active Directory depends entirely on correct DNS configuration.
