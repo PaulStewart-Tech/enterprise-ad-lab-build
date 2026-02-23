@@ -237,4 +237,3 @@ Stored in `/screenshots` directory:
 ---
 
 
-Your next lab move depends on that decision.
