@@ -17,8 +17,6 @@ The lab models:
 * DNS troubleshooting
 * Account lockout and password scenarios
 
-This environment reflects real Help Desk and Desktop Support responsibilities.
-
 ---
 
 # 🏗️ Lab Environment Architecture
@@ -75,7 +73,7 @@ lab.local
 
 ![DevTeam OU Structure](screenshots/DevTeam_OU_Structure.PNG)
 
-### Why This Matters
+### Note:
 
 * Enables targeted Group Policy
 * Organizes users logically
@@ -88,14 +86,14 @@ lab.local
 
 Practiced tasks:
 
-* Create users
-* Reset passwords
-* Unlock locked accounts
-* Force password change at next logon
-* Disable accounts
-* Re-enable accounts
-* Move users between OUs
-* Add users to security groups
+- **Create users** – [View Screenshot](screenshots/create-user.png)
+- **Reset passwords** – [View Screenshot](screenshots/reset-password.png)
+- **Unlock locked accounts** – [View Screenshot](screenshots/unlock-account.png)
+- **Force password change at next logon** – [View Screenshot](screenshots/force-password-change.png)
+- **Disable accounts** – [View Screenshot](screenshots/disable-account.png)
+- **Re-enable accounts** – [View Screenshot](screenshots/reenable-account.png)
+- **Move users between OUs** – [View Screenshot](screenshots/move-user-ou.png)
+- **Add users to security groups** – [View Screenshot](screenshots/add-user-group.png)
 
 ### Help Desk Scenarios Simulated
 
@@ -142,7 +140,6 @@ Tasks completed:
 * Installed Windows 10 on CLIENT01
 * Configured networking to communicate with DC01
 * Verified connectivity using:
-
   * ping
   * ipconfig
 * Corrected DNS misconfiguration
@@ -167,9 +164,12 @@ Validated:
 
 ![DC01 DNS Configuration](screenshots/DC01_DNS_Configuration.PNG)
 
-Key Lesson:
+Note:
 
-Active Directory depends entirely on correct DNS configuration.
+*Active Directory depends entirely on correct DNS configuration.
+*Validates the Client 01 points to DNS Server
+*Authenicate User and process Group policies
+*If DNS is wrong, everything is wrong
 
 ---
 
