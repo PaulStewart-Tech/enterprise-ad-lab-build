@@ -140,7 +140,7 @@ Tasks completed:
 * Installed Windows 10 on CLIENT01
 * **Configured networking to communicate with DC01** – [View Screenshot](screenshots/disable-account.png)
 * Verified connectivity using:
-  * **ping** – [View Screenshot](screenshots/Client01_PingTest_TO_DC01.png)
+  * **ping** – [View Screenshot](screenshots/Client01_PingTest_TO_DC01.PNG)
   * **ipconfig** – [View Screenshot](screenshots/disable-account.png)
 * Corrected DNS misconfiguration
 * Joined CLIENT01 to lab.local domain
